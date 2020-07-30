@@ -4,3 +4,5 @@
 ## Setting up
 To set and build the projects, follow this [guidline](https://qmlio.000webhostapp.com/docs/firebasePluginIndex.html)
 
+## Contributions
+Any any contributions are welcomed, lets build Qmlio together.
